@@ -1,0 +1,567 @@
+{
+  "count": 16,
+  "next": null,
+  "previous": null,
+  "items": [
+    {
+      "id": 5117,
+      "name": "Baker Beach Unedited",
+      "slug": "Z4Dm3WLNq4cRYE8ptre2qT",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1107/events/5117/origin_5e8f6870-6ca.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "NA",
+        "image": null
+      },
+      "display_name": "Fahad",
+      "description": null,
+      "streams": [
+        {
+          "id": 7462,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 99,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1107/broadcasts/e2db22db-c6df-47c0-8a96-1758209c3aba/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 5080,
+      "name": "Celebration of Life - Grandma's Day",
+      "slug": "RjJyjjrWdeZdhFzgpeu2HK",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/events/5080/origin_7bd39f44-866.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Immersive Studios By Jason",
+        "image": null
+      },
+      "display_name": "Jason Garcia",
+      "description": null,
+      "streams": [
+        {
+          "id": 7471,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 465,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/broadcasts/0e85aaf8-a771-42f9-8fc7-19e871a47152/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 5076,
+      "name": "Sunset at Coast Dairies State Park",
+      "slug": "5tekcWxkiYXFS8puLPjHYG",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/861/events/5076/origin_fdb46a78-c4e.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Dana wuz here",
+        "image": null
+      },
+      "display_name": "Dana Immertreu",
+      "description": null,
+      "streams": [
+        {
+          "id": 7275,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 579,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/861/broadcasts/5f1236a0-57fe-4137-b289-6f0e1f29640d/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4860,
+      "name": "Stand By Me at Denver Ukefest",
+      "slug": "wq4bgTy96GqM5ASaeMmsSH",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1103/events/4860/origin_f6113fe1-0b2.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Ukulele Underground",
+        "image": null
+      },
+      "display_name": "Aaron Nakamura",
+      "description": "Victoria Vox, Stuart Fuchs, The Council (John Nash, Casey Cormier & Nick Einterz), Aldrine Guerrero, and Aaron Nakamura play Stand by me at the end of the Denver Ukefest concert.",
+      "streams": [
+        {
+          "id": 6978,
+          "is_enabled": true,
+          "video_type": "MONO",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 269,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1103/broadcasts/86551d15-a507-4407-a3a9-4c09bd45d186/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4858,
+      "name": "Hi`ilawe",
+      "slug": "DLcrhyeQhNPdVJzmfJhzhU",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1103/events/4858/origin_05a1fd44-b1b.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Ukulele Underground",
+        "image": null
+      },
+      "display_name": "Aaron Nakamura",
+      "description": "Darrell Rapozo (ukulele), Shilo Pa (Vocals/Guitar), and Aldrine Guerrero (ukulele) play Hi`ilawe.",
+      "streams": [
+        {
+          "id": 6971,
+          "is_enabled": true,
+          "video_type": "MONO",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 245,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1103/broadcasts/fdc8d736-2a3b-4126-b4a8-afe21dd90117/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4785,
+      "name": "Curaçao Airport Departure Experience 360 VR 3D",
+      "slug": "929ZLhHL3ZJyqX2pMTK85G",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1099/events/4785/origin_aad123cf-0a4.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Curaçao 360 VR",
+        "image": null
+      },
+      "display_name": "Remco Ernandes",
+      "description": "Experience the departure from the International Airport of the Caribbean island, Curaçao.",
+      "streams": [
+        {
+          "id": 6872,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 256,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1099/broadcasts/02a78305-82b6-441b-8254-c0842368cbab/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4782,
+      "name": "Curaçao Airport Arrival Experience 360 VR 3D",
+      "slug": "DkwLxfBWrUkQWFFrL7rWUW",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1099/events/4782/origin_dbde69a7-7e1.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Curaçao 360 VR",
+        "image": null
+      },
+      "display_name": "Remco Ernandes",
+      "description": "Experience the landing of a Jumbo 747, the parking of a 737 and the Arrival experience at the Caribbean island of Curaçao.",
+      "streams": [
+        {
+          "id": 6871,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 176,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1099/broadcasts/a0133d64-f20f-4860-bbf1-d17e5f01b95b/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4659,
+      "name": "Tulip Farm",
+      "slug": "pc7xQSjnzCVx5K4yXV8QVM",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/74/events/4659/origin_2dbed362-b1d.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Marcelo Silva",
+        "image": null
+      },
+      "display_name": "Marcelo Silva",
+      "description": "The Iverson family began growing tulips in 1974. The first tulips belonged to Dr. Holman who would ship part of the bulbs to Indiana every year for forcing. When he retired in the late 1970’s we bought a few acres of bulbs from him.",
+      "streams": [
+        {
+          "id": 6709,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 61,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/74/broadcasts/f9c98914-deb8-447b-b072-65c2d65a369a/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4571,
+      "name": "Neptune Aquatics - Stunning Local Fish Store",
+      "slug": "gy84qsjHDZELdkJQ4Bm9tU",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/events/4571/origin_94ee18f4-01e.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Immersive Studios By Jason",
+        "image": null
+      },
+      "display_name": "Jason Garcia",
+      "description": null,
+      "streams": [
+        {
+          "id": 6599,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 299,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/broadcasts/6cffe887-eec7-4f6b-9cd2-3a9963798b2b/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4516,
+      "name": "K1 Speedway - Go Kart Racing in VR",
+      "slug": "VKkyWCdjSTJtb3nDWWPzVY",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/events/4516/origin_e7ba111d-c34.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Immersive Studios By Jason",
+        "image": null
+      },
+      "display_name": "Jason Garcia",
+      "description": null,
+      "streams": [
+        {
+          "id": 6509,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 278,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/broadcasts/67432397-714d-47dc-9b31-01442b39a89b/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4515,
+      "name": "Christmas in The Park 2018 - San Jose, Ca",
+      "slug": "25ed2dcWhsxsvRh8DfMBAn",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/events/4515/origin_366bced3-848.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Immersive Studios By Jason",
+        "image": null
+      },
+      "display_name": "Jason Garcia",
+      "description": null,
+      "streams": [
+        {
+          "id": 3876,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 386,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/broadcasts/e9730677-1f12-45b6-aff7-c0ff44f74066/preview-0x0-4000K-0-.mp4"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4514,
+      "name": "Outside San Jose Museum of Art",
+      "slug": "r5ZwnRhGovLyt6r8Sy92g2",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/events/4514/origin_04f3a699-377.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Immersive Studios By Jason",
+        "image": null
+      },
+      "display_name": "Jason Garcia",
+      "description": null,
+      "streams": [
+        {
+          "id": 3995,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 69,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/729/broadcasts/35c784ab-3172-40cd-94f6-b25d04582f08/preview-0x0-4000K-0-.mp4"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4505,
+      "name": "People watching at Stanford Shopping Center",
+      "slug": "Qj3AnJqocebCzNYVPfQLEM",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1060/events/4505/origin_72a25e6f-4c1.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Freelance Creative Co.",
+        "image": null
+      },
+      "display_name": "Kenneth Go",
+      "description": "Neighboring other notable landmarks in Palo Alto, California, the Stanford Shopping Center is home to over 150 different businesses. From Coach to Shake Shack, there's plenty to do in the way of shopping and eating. The Stanford Shopping Center is also home of many local events.\n\nAnd even when you're not doing those things, it also serves as a great location to people watch!",
+      "streams": [
+        {
+          "id": 6482,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 151,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1060/broadcasts/b23ed410-042b-40d4-bdbc-0813d6192012/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4504,
+      "name": "Del Monte Dog Park",
+      "slug": "LxY3vpdePoioaGuefm4UYa",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1060/events/4504/origin_63a4e2af-046.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Freelance Creative Co.",
+        "image": null
+      },
+      "display_name": "Kenneth Go",
+      "description": "Kenneth and company at San Jose's Del Monte Dog Park. Every Sunday morning, the park is the playground for dozens of dogs, particularly corgis. Lots of friendships and play to be had!\n\nKeep an eye out for Satou, the tri-color Pembroke Welsh Corgi and follow her on Instagram! @satoucorgi",
+      "streams": [
+        {
+          "id": 6485,
+          "is_enabled": true,
+          "video_type": "STEREO_TB",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 241,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/1060/broadcasts/0b982117-9ff4-43ab-816c-292de2123bc8/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    },
+    {
+      "id": 4240,
+      "name": "Omak lake",
+      "slug": "i6xtCDsC9mGpEmuKBtwQv3",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/982/events/4240/origin_afb5acdf-867.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "Digitalimageries",
+        "image": null
+      },
+      "display_name": "Robert peterson",
+      "description": null,
+      "streams": [
+        {
+          "id": 5996,
+          "is_enabled": true,
+          "video_type": "MONO",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 355,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/982/broadcasts/b8fbaf2a-2de4-4995-8644-e17ae0f65b5e/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": false
+        }
+      ]
+    },
+    {
+      "id": 3572,
+      "name": "SJ CityHall Gloomy 180FoV",
+      "slug": "F8EmhN5DKwjV8S9t36dXbZ",
+      "status": "ON_AIR",
+      "type": "VOD",
+      "image_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/643/events/3572/origin_e8f8f0c2-7b7.png",
+      "state": "PUBLISHED",
+      "company": {
+        "name": "VR Like Never Before",
+        "image": null
+      },
+      "display_name": "Mukund R",
+      "description": null,
+      "streams": [
+        {
+          "id": 4484,
+          "is_enabled": true,
+          "video_type": "STEREO_TB_180",
+          "video_proj": "EQUIRECTANGULAR",
+          "duration": 33,
+          "preview_video_url": "https://lp-cloud-v2-content.storage.googleapis.com:443/643/broadcasts/64481fa0-daa4-4d2d-a9df-4ab323c553fe/preview.m3u8"
+        }
+      ],
+      "livestreams": [],
+      "platform_ids": [
+        "gear-vr"
+      ],
+      "readiness": [
+        {
+          "platform_id": "gear-vr",
+          "is_ready": true
+        }
+      ]
+    }
+  ]
+}

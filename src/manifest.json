@@ -1,0 +1,24 @@
+{
+  "name": "Live Planet Data",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "suppliesData": true,
+  "commands": [
+    {
+      "script": "my-command.js",
+      "handlers": {
+        "actions": {
+          "Startup": "onStartup",
+          "Shutdown": "onShutdown",
+          "SupplyRandomVideoName": "onSupplyRandomVideoName",
+          "SupplyRandomVideoChannel": "onSupplyRandomVideoChannel",
+          "SupplyRandomVideoCover": "onSupplyRandomVideoCover"
+        }
+      }
+    }
+  ],
+  "menu": {
+    "title": "Live Planet Data"
+  }
+}

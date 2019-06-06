@@ -1,0 +1,30 @@
+{
+  "name": "liveplanet-sketch-datasupplier",
+  "version": "0.1.0",
+  "description": "A DataSupplier plugin",
+  "engines": {
+    "sketch": ">=3.0"
+  },
+  "skpm": {
+    "name": "liveplanet-sketch-datasupplier",
+    "manifest": "src/manifest.json",
+    "main": "liveplanet-sketch-datasupplier.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@skpm/babel-preset": "^0.2.1",
+    "@skpm/builder": "^0.5.2"
+  },
+  "dependencies": {
+    "@skpm/fs": "^0.2.4"
+  }
+}
