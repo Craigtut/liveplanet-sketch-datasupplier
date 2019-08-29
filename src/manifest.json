@@ -12,8 +12,11 @@
           "Startup": "onStartup",
           "Shutdown": "onShutdown",
           "SupplyRandomVideoName": "onSupplyRandomVideoName",
-          "SupplyRandomVideoChannel": "onSupplyRandomVideoChannel",
-          "SupplyRandomVideoCover": "onSupplyRandomVideoCover"
+          "SupplyRandomChannelName": "onSupplyRandomChannelName",
+          "SupplyRandomVideoCover": "onSupplyRandomVideoCover",
+          "SupplyRandomChannelImage": "onSupplyRandomChannelImage",
+          "SupplyRandomChannelCover": "onSupplyRandomChannelCover",
+          "SupplyRandomUploadTime": "onSupplyRandomUploadTime"
         }
       }
     }
